@@ -168,3 +168,4 @@ This is an unofficial fan tool, not affiliated with or endorsed by CAPCOM. Monst
 
 - [LEGENDFF/mhw-Savecrypt](https://github.com/LEGENDFF/mhw-Savecrypt): reverse-engineered Iceborne save encryption (ported here to Python)
 - [EnderHDMC/MHWISaveEditor](https://github.com/EnderHDMC/MHWISaveEditor): save layout and Guiding Lands structure
+# mhw-guiding-lands-max-level
